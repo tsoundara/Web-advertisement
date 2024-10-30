@@ -6,9 +6,10 @@
 	width: 336px;
 	height: 280px;
 	border: solid black 1px;
-	position: relative;
+	position: absolute;
 	left: 50%;
 	top: 50%;
+	transform: translate(-50%,-50%);
 	background-color:#FBCEB1;
 }
 
