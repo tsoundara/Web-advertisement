@@ -1,0 +1,69 @@
+@font-face{
+	font-family: 'Blinker';
+	src:url(/fonts/Blinker_variable_font.ttf) format('truetype');
+}
+.container{
+	width: 336px;
+	height: 280px;
+	border: solid black 1px;
+	position: relative;
+	left: 50%;
+	top: 50%;
+	background-color:#FBCEB1;
+}
+
+
+.snicker{
+	width: 60%;
+	height: 50%;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.Title{
+	position: absolute;
+	left: 80px;
+	top: -10px;
+	font-family: 'Blinker';
+	font-weight: 800;
+	font-size: 30px;
+}
+
+.Bottom{
+	position: absolute;
+	left: 40px;
+	top: 180px;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Blinker';
+	font-weight: 700;
+
+}
+
+.link{
+	position: absolute;
+	left: 140px;
+	top: 250px;
+	text-decoration: none;
+	color: black;
+	color: white;
+	font-family: 'Blinker';
+	font-weight: bold;
+
+}
+
+.Hungry{
+	position: absolute;
+	left: 200px;
+	top: 160px;
+	font-family: 'Blinker';
+	font-weight: 900;
+	font-size: 40px;
+	color: red;
+
+}
+
+.link:hover{
+	color:orange;
+}
