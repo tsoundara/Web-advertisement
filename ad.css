@@ -1,6 +1,6 @@
 @font-face{
 	font-family: 'Blinker';
-	src:url(/fonts/Blinker_variable_font.ttf) format('truetype');
+	src:url(Blinker_variable_font.ttf) format('truetype');
 }
 .container{
 	width: 336px;
